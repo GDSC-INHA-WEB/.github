@@ -1,4 +1,4 @@
-##GDSC INHA - TEAM WEB
+## GDSC INHA - TEAM WEB
 GDSC INHA 웹팀 레포지토리 입니다.
 
 <!--
